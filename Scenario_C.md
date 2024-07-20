@@ -16,4 +16,5 @@ Additionally, please visit our resources page where you can find more informatio
 We wish you all the best in your upcoming graduation and job search. If there is anything else we can assist you with or if you have further questions, please do not hesitate to contact us.
 
 Best regards,
+
 CodePath.org team
