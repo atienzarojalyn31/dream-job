@@ -14,4 +14,5 @@ Therefore, we are unable to reconsider your enrollment in the course at this tim
 Should you have any further questions or require assistance, please do not hesitate to reach out.
 
 All the best,
+
 CodePath.org Team
