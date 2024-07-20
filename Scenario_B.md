@@ -18,4 +18,5 @@ We apologize for any frustrations this may have caused and want to assure you th
 Thank you once again for considering CodePath.
 
 All the best,
+
 CodePath.org Team
