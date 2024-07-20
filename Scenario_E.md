@@ -32,4 +32,5 @@ Schedule of the class, Intro to Cybersecurity, is as follows:
 If you have any more questions or need further assistance with your application, feel free to ask. We're here to support you throughout the process.
 
 All the best,
+
 CodePath.org Team
